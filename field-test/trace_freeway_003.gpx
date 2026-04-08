@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="FleetTelematics SDK v2.4.1">
+  <trk>
+    <name>Freeway Route C - Vehicle #3156</name>
+    <trkseg>
+      <trkpt lat="22.5431" lon="114.0579"><ele>25</ele><time>2026-04-03T14:30:00Z</time><speed>105</speed></trkpt>
+      <trkpt lat="22.5631" lon="114.0879"><ele>28</ele><time>2026-04-03T14:30:30Z</time><speed>112</speed></trkpt>
+      <trkpt lat="22.6231" lon="114.1879"><ele>22</ele><time>2026-04-03T14:31:00Z</time><speed>118</speed></trkpt>
+      <trkpt lat="22.7231" lon="114.3379"><ele>30</ele><time>2026-04-03T14:31:30Z</time><speed>124</speed></trkpt>
+      <trkpt lat="22.8831" lon="114.5379"><ele>27</ele><time>2026-04-03T14:32:00Z</time><speed>130</speed></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
