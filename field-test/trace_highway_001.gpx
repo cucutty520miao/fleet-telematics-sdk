@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="FleetTelematics SDK v2.4.1">
+  <trk>
+    <name>Highway Route A - Vehicle #1042</name>
+    <trkseg>
+      <trkpt lat="39.9042" lon="116.4074"><ele>45</ele><time>2026-04-01T08:00:00Z</time><speed>120</speed></trkpt>
+      <trkpt lat="39.9142" lon="116.4274"><ele>47</ele><time>2026-04-01T08:00:30Z</time><speed>125</speed></trkpt>
+      <trkpt lat="39.9542" lon="116.5074"><ele>52</ele><time>2026-04-01T08:01:00Z</time><speed>130</speed></trkpt>
+      <trkpt lat="40.0142" lon="116.6074"><ele>48</ele><time>2026-04-01T08:01:30Z</time><speed>128</speed></trkpt>
+      <trkpt lat="40.1542" lon="116.8074"><ele>55</ele><time>2026-04-01T08:02:00Z</time><speed>135</speed></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
